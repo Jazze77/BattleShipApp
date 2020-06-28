@@ -1,1 +1,1 @@
- C# BattleShipApp Consule program
+ C# BattleShipApp Console program
